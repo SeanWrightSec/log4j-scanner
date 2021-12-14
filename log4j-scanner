@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo 'Did you just try run some random script off the Internet?'
 echo 'You should be using a proper dependecy scanner such as OWASP Dependency Check! Go check it out at: https://owasp.org/www-project-dependency-check/'
 
 echo 'You can run as a binary: dependency-check.sh --project \"<project-name>\" --scan \"<directory-to-scan>\'
